@@ -1,0 +1,487 @@
+?<info> app: sample_3  :0
+
+<info> app: 38
+
+<info> app: tick:2621
+
+<info> app: seq = 197
+
+<info> app: 74
+
+<info> app: tick:2621
+
+<info> app: 140
+
+<info> app: tick:2621
+
+<info> app: 159
+
+<info> app: tick:2621
+
+<info> app: 158
+
+<info> app: tick:2621
+
+<info> app: 159
+
+<info> app: tick:2621
+
+<info> app: seq = 198
+
+<info> app: 147
+
+<info> app: tick:2621
+
+<info> app: 137
+
+<info> app: tick:2621
+
+<info> app: 138
+
+<info> app: tick:2621
+
+<info> app: 110
+
+<info> app: tick:2621
+
+<info> app: sample_1  :50
+
+<info> app: 130
+
+<info> app: tick:2621
+
+<info> app: seq = 199
+
+<info> app: 143
+
+<info> app: tick:2621
+
+<info> app: 124
+
+<info> app: tick:2621
+
+<info> app: 126
+
+<info> app: tick:2621
+
+<info> app: 128
+
+<info> app: tick:2621
+
+<info> app: sample_2  :100
+
+<info> app: 162
+
+<info> app: tick:2621
+
+<info> app: seq = 200
+
+<info> app: 153
+
+<info> app: tick:2621
+
+<info> app: 147
+
+<info> app: tick:2621
+
+<info> app: 166
+
+<info> app: tick:2621
+
+<info> app: 148
+
+<info> app: tick:2621
+
+<info> app: sample_3  :125
+
+<info> app: 138
+
+<info> app: tick:2621
+
+<info> app: seq = 201
+
+<info> app: 108
+
+<info> app: tick:2621
+
+<info> app: 118
+
+<info> app: tick:2621
+
+<info> app: 136
+
+<info> app: tick:2621
+
+<info> app: 132
+
+<info> app: tick:2621
+
+<info> app: 167
+
+<info> app: tick:2621
+
+<info> app: seq = 202
+
+<info> app: 166
+
+<info> app: tick:2621
+
+<info> app: 138
+
+<info> app: tick:2621
+
+<info> app: 134
+
+<info> app: tick:2621
+
+<info> app: 105
+
+<info> app: tick:2621
+
+<info> app: sample_1  :125
+
+<info> app: 115
+
+<info> app: tick:2621
+
+<info> app: seq = 203
+
+<info> app: 139
+
+<info> app: tick:2621
+
+<info> app: 138
+
+<info> app: tick:2621
+
+<info> app: 177
+
+<info> app: tick:2621
+
+<info> app: 168
+
+<info> app: tick:2621
+
+<info> app: sample_2  :125
+
+<info> app: w_count:5
+
+<info> app: g_send_data:5
+
+<debug> app: ii_start:990
+
+<info> app: 124
+
+<info> app: tick:2621
+
+<info> app: seq = 204
+
+<debug> app: ii_start:990
+
+<info> app: 128
+
+<info> app: tick:2621
+
+<debug> app: ii_start:990
+
+<info> app: 105
+
+<info> app: tick:2621
+
+<debug> app: ii_start:990
+
+<info> app: 124
+
+<info> app: tick:2621
+
+<debug> app: ii_start:990
+
+<info> app: 137
+
+<info> app: tick:2621
+
+<info> app: sample_3  :125
+
+<debug> app: ii_start:990
+
+<info> app: 159
+
+<info> app: tick:2621
+
+<info> app: seq = 205
+
+<debug> nrf_sdh_ble: BLE event: 0x26.
+<debug> app: ii_start:990
+
+<info> app: 190
+
+<info> app: tick:2621
+
+<debug> app: ii_start:990
+
+<info> app: 150
+
+<info> app: tick:2621
+
+<info> app: w_count:6
+
+<info> app: g_send_data:6
+
+<debug> app: ii_start:990
+
+<info> app: 122
+
+<info> app: tick:2621
+
+<debug> app: ii_start:990
+
+<info> app: 101
+
+<info> app: tick:2621
+
+<debug> app: ii_start:990
+
+<info> app: 115
+
+<info> app: tick:2621
+
+<info> app: seq = 206
+
+<debug> app: ii_start:990
+
+<info> app: 139
+
+<info> app: tick:2621
+
+<debug> app: ii_start:990
+
+<info> app: 147
+
+<info> app: tick:2621
+
+<debug> app: ii_start:990
+
+<info> app: 188
+
+<info> app: tick:2621
+
+<debug> app: ii_start:990
+
+<info> app: 159
+
+<info> app: tick:2621
+
+<info> app: sample_1  :125
+
+<info> app: w_count:7
+
+<info> app: g_send_data:7
+
+<debug> app: ii_start:990
+
+<info> app: 127
+
+<info> app: tick:2621
+
+<info> app: seq = 207
+
+<debug> app: ii_start:990
+
+<info> app: 97
+
+<info> app: tick:2621
+
+<debug> app: ii_start:990
+
+<info> app: 113
+
+<info> app: tick:2621
+
+<debug> app: ii_start:990
+
+<info> app: 141
+
+<info> app: tick:2621
+
+<debug> app: ii_start:990
+
+<info> app: 153
+
+<info> app: tick:2621
+
+<info> app: sample_2  :125
+
+<debug> app: ii_start:990
+
+<info> app: 154
+
+<info> app: tick:2621
+
+<info> app: seq = 208
+
+<info> app: w_count:8
+
+<info> app: g_send_data:8
+
+<debug> app: ii_start:990
+
+<info> app: 124
+
+<info> app: tick:2621
+
+<debug> app: ii_start:990
+
+<info> app: 130
+
+<info> app: tick:2621
+
+<debug> app: ii_start:990
+
+<info> app: 127
+
+<info> app: tick:2621
+
+<debug> app: ii_start:990
+
+<info> app: 125
+
+<info> app: tick:2621
+
+<info> app: sample_3  :125
+
+<debug> app: ii_start:990
+
+<info> app: 134
+
+<info> app: tick:2621
+
+<info> app: seq = 209
+
+<debug> app: ii_start:990
+
+<info> app: 115
+
+<info> app: tick:2621
+
+<debug> app: ii_start:990
+
+<info> app: 30
+
+<info> app: tick:2621
+
+<debug> app: ii_start:990
+
+<info> app: 0
+
+<info> app: tick:2621
+
+<debug> app: ii_start:990
+
+<info> app: 0
+
+<info> app: tick:2621
+
+<debug> app: ii_start:990
+
+<info> app: 0
+
+<info> app: tick:2621
+
+<info> app: seq = 210
+
+<debug> app: ii_start:990
+
+<info> app: 0
+
+<info> app: tick:2621
+
+<debug> app: ii_start:990
+
+<info> app: 0
+
+<info> app: tick:2621
+
+<debug> app: ii_start:990
+
+<info> app: 0
+
+<info> app: tick:2621
+
+<debug> app: ii_start:990
+
+<info> app: 0
+
+<info> app: tick:2621
+
+<info> app: sample_1  :50
+
+<info> app: 0
+
+<info> app: tick:2621
+
+<info> app: seq = 211
+
+<info> app: 0
+
+<info> app: tick:2621
+
+<info> app: 0
+
+<info> app: tick:2621
+
+<info> app: 0
+
+<info> app: tick:2621
+
+<info> app: 0
+
+<info> app: tick:2621
+
+<info> app: sample_2  :25
+
+<info> app: 0
+
+<info> app: tick:2621
+
+<info> app: seq = 212
+
+<info> app: 0
+
+<info> app: tick:2621
+
+<info> app: 0
+
+<info> app: tick:2621
+
+<info> app: 0
+
+<info> app: tick:2621
+
+<info> app: 0
+
+<info> app: tick:2621
+
+<info> app: sample_3  :0
+
+<info> app: 0
+
+<info> app: tick:2621
+
+<info> app: seq = 213
+
+<info> app: 0
+
+<info> app: tick:2621
+
+<info> app: 0
+
+<info> app: tick:2621
+
+<info> app: 0
+
+<info> app: tick:2621
+
+<info> app: 0
+
+<info> app: tick:2621
+

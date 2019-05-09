@@ -1,0 +1,820 @@
+<info> app: 13
+
+<info> app: 13
+
+<info> app: 0
+
+<info> app: seq = 52
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: seq = 53
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: seq = 54
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: seq = 55
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: seq = 56
+
+<info> app: 14
+
+<info> app: 19
+
+<info> app: 19
+
+<info> app: 29
+
+<info> app: 27
+
+<info> app: seq = 57
+
+<info> app: 30
+
+<info> app: 42
+
+<info> app: 46
+
+<info> app: 49
+
+<info> app: 61
+
+<info> app: seq = 58
+
+<info> app: 78
+
+<info> app: 84
+
+<info> app: 94
+
+<info> app: 107
+
+<info> app: 105
+
+<info> app: seq = 59
+
+<info> app: 110
+
+<info> app: sample_1  :25
+
+<info> app: 129
+
+<info> app: 175
+
+<info> app: 211
+
+<info> app: 251
+
+<info> app: seq = 60
+
+<info> app: 276
+
+<info> app: 281
+
+<info> app: 324
+
+<info> app: 330
+
+<info> app: 343
+
+<info> app: seq = 61
+
+<info> app: 375
+
+<info> app: sample_2  :75
+
+<info> app: 340
+
+<info> app: 294
+
+<info> app: 244
+
+<info> app: 241
+
+<info> app: seq = 62
+
+<info> app: 317
+
+<info> app: 394
+
+<info> app: 445
+
+<info> app: 420
+
+<info> app: 359
+
+<info> app: seq = 63
+
+<info> app: 411
+
+<info> app: sample_3  :175
+
+<info> app: 489
+
+<info> app: 454
+
+<info> app: 454
+
+<info> app: 453
+
+<info> app: seq = 64
+
+<info> app: 442
+
+<info> app: 441
+
+<info> app: 455
+
+<info> app: 453
+
+<info> app: 440
+
+<info> app: seq = 65
+
+<info> app: 446
+
+<info> app: sample_4  :275
+
+<info> app: 457
+
+<info> app: 453
+
+<info> app: 441
+
+<info> app: 424
+
+<info> app: seq = 66
+
+<info> app: 426
+
+<info> app: 416
+
+<info> app: 407
+
+<info> app: 405
+
+<info> app: 406
+
+<info> app: seq = 67
+
+<info> app: 415
+
+<info> app: sample_1  :375
+
+<info> app: 421
+
+<info> app: 421
+
+<info> app: 409
+
+<info> app: 399
+
+<info> app: seq = 68
+
+<info> app: 400
+
+<info> app: 389
+
+<info> app: 372
+
+<info> app: 379
+
+<info> app: 389
+
+<info> app: seq = 69
+
+<info> app: 386
+
+<info> app: sample_2  :400
+
+<info> app: 386
+
+<info> app: 389
+
+<info> app: 393
+
+<info> app: 391
+
+<info> app: seq = 70
+
+<info> app: 394
+
+<info> app: 390
+
+<info> app: 393
+
+<info> app: 395
+
+<info> app: 392
+
+<info> app: seq = 71
+
+<info> app: 397
+
+<info> app: sample_3  :400
+
+<info> app: 410
+
+<info> app: 412
+
+<info> app: 400
+
+<info> app: 401
+
+<info> app: seq = 72
+
+<info> app: 413
+
+<info> app: 418
+
+<info> app: 423
+
+<info> app: 428
+
+<info> app: 438
+
+<info> app: seq = 73
+
+<info> app: 450
+
+<info> app: sample_4  :400
+
+<info> app: time_flag_h:0
+
+<info> app: time_flag_h:0
+
+<info> app: time_flag_h:0
+
+<info> app: 444
+
+<info> app: 438
+
+<info> app: 442
+
+<info> app: 447
+
+<info> app: seq = 74
+
+<info> app: 447
+
+<info> app: 437
+
+<info> app: 433
+
+<info> app: 430
+
+<info> app: 420
+
+<info> app: seq = 75
+
+<info> app: 419
+
+<info> app: sample_1  :400
+
+<info> app: 415
+
+<info> app: 412
+
+<info> app: 415
+
+<info> app: 424
+
+<info> app: seq = 76
+
+<info> app: 425
+
+<info> app: 422
+
+<info> app: 418
+
+<info> app: 414
+
+<info> app: 413
+
+<info> app: seq = 77
+
+<info> app: 412
+
+<info> app: sample_2  :400
+
+<info> app: 405
+
+<info> app: 398
+
+<info> app: 386
+
+<info> app: 383
+
+<info> app: seq = 78
+
+<info> app: 379
+
+<info> app: 377
+
+<info> app: 383
+
+<info> app: 394
+
+<info> app: 401
+
+<info> app: seq = 79
+
+<info> app: 395
+
+<info> app: sample_3  :400
+
+<info> app: 392
+
+<info> app: 398
+
+<info> app: 395
+
+<info> app: 402
+
+<info> app: seq = 80
+
+<info> app: 418
+
+<info> app: 427
+
+<info> app: 420
+
+<info> app: 413
+
+<info> app: 410
+
+<info> app: seq = 81
+
+<info> app: 419
+
+<info> app: sample_4  :400
+
+<info> app: 428
+
+<info> app: 430
+
+<info> app: 439
+
+<info> app: 443
+
+<info> app: seq = 82
+
+<info> app: 447
+
+<info> app: 444
+
+<info> app: 445
+
+<info> app: 444
+
+<info> app: 448
+
+<info> app: seq = 83
+
+<info> app: 442
+
+<info> app: sample_1  :400
+
+<info> app: 428
+
+<info> app: 419
+
+<info> app: 418
+
+<info> app: 420
+
+<info> app: seq = 84
+
+<info> app: 423
+
+<info> app: 415
+
+<info> app: 409
+
+<info> app: 393
+
+<info> app: 376
+
+<info> app: seq = 85
+
+<info> app: 374
+
+<info> app: sample_2  :400
+
+<info> app: 377
+
+<info> app: 364
+
+<info> app: 370
+
+<info> app: 385
+
+<info> app: seq = 86
+
+<info> app: 392
+
+<info> app: 400
+
+<info> app: 398
+
+<info> app: 396
+
+<info> app: 400
+
+<info> app: seq = 87
+
+<info> app: 407
+
+<info> app: sample_3  :400
+
+<info> app: 422
+
+<info> app: 421
+
+<info> app: 422
+
+<info> app: 411
+
+<info> app: seq = 88
+
+<info> app: 416
+
+<info> app: 422
+
+<info> app: 420
+
+<info> app: 421
+
+<info> app: 439
+
+<info> app: seq = 89
+
+<info> app: 451
+
+<info> app: sample_4  :400
+
+<info> app: 446
+
+<info> app: 441
+
+<info> app: 441
+
+<info> app: 446
+
+<info> app: seq = 90
+
+<info> app: 451
+
+<info> app: 447
+
+<info> app: 446
+
+<info> app: 432
+
+<info> app: 431
+
+<info> app: seq = 91
+
+<info> app: 426
+
+<info> app: sample_1  :400
+
+<info> app: 412
+
+<info> app: 406
+
+<info> app: 388
+
+<info> app: 378
+
+<info> app: seq = 92
+
+<info> app: 384
+
+<info> app: 380
+
+<info> app: 375
+
+<info> app: 370
+
+<info> app: 372
+
+<info> app: seq = 93
+
+<info> app: 381
+
+<info> app: sample_2  :400
+
+<info> app: 383
+
+<info> app: 385
+
+<info> app: 388
+
+<info> app: 400
+
+<info> app: seq = 94
+
+<info> app: 407
+
+<info> app: 413
+
+<info> app: 404
+
+<info> app: 413
+
+<info> app: 419
+
+<info> app: seq = 95
+
+<info> app: 418
+
+<info> app: sample_3  :400
+
+<info> app: 419
+
+<info> app: 418
+
+<info> app: 423
+
+<info> app: 416
+
+<info> app: seq = 96
+
+<info> app: 419
+
+<info> app: 428
+
+<info> app: 438
+
+<info> app: 440
+
+<info> app: 443
+
+<info> app: seq = 97
+
+<info> app: 444
+
+<info> app: sample_4  :400
+
+<info> app: 441
+
+<info> app: 440
+
+<info> app: 443
+
+<info> app: 445
+
+<info> app: seq = 98
+
+<info> app: 446
+
+<info> app: 438
+
+<info> app: 428
+
+<info> app: 412
+
+<info> app: 382
+
+<info> app: seq = 99
+
+<info> app: 372
+
+<info> app: sample_1  :400
+
+<info> app: 372
+
+<info> app: 373
+
+<info> app: 364
+
+<info> app: 367
+
+<info> app: seq = 100
+
+<info> app: 377
+
+<info> app: 386
+
+<info> app: 393
+
+<info> app: 402
+
+<info> app: 398
+
+<info> app: seq = 101
+
+<info> app: 399
+
+<info> app: sample_2  :400
+
+<info> app: 398
+
+<info> app: 408
+
+<info> app: 424
+
+<info> app: 419
+
+<info> app: seq = 102
+
+<info> app: 405
+
+<info> app: 392
+
+<info> app: 408
+
+<info> app: 406
+
+<info> app: 389
+
+<info> app: seq = 103
+
+<info> app: 321
+
+<info> app: sample_3  :400
+
+<info> app: 271
+
+<info> app: 217
+
+<info> app: 147
+
+<info> app: 76
+
+<info> app: seq = 104
+
+<info> app: 39
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: seq = 105
+
+<info> app: 0
+
+<info> app: sample_4  :300
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: seq = 106
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: seq = 107
+
+<info> app: 0
+
+<info> app: sample_1  :200
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: seq = 108
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: seq = 109
+
+<info> app: 0
+
+<info> app: sample_2  :100
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: seq = 110
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: seq = 111
+
+<info> app: 0
+
+<info> app: sample_3  :0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: seq = 112
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: seq = 113
+
+<info> app: 0
+
+<info> app: sample_4  :0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: seq = 114
+
+<debug> app: time = 16
+
+<debug> app: battery = 3
+
+<info> app: 0
+

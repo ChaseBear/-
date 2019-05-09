@@ -1,0 +1,1614 @@
+<info> app: 0
+
+<info> app: 17
+
+<info> app: sample_3  :0
+
+<info> app: 26
+
+<info> app: seq = 1
+
+<info> app: 36
+
+<info> app: 51
+
+<info> app: 63
+
+<info> app: 80
+
+<info> app: w_count:17
+
+<info> app: g_send_data:17
+
+<info> app: time_flag_h:1
+
+<info> app: 100
+
+<info> app: seq = 2
+
+<info> app: 121
+
+<info> app: 138
+
+<info> app: 139
+
+<info> app: 126
+
+<info> app: sample_1  :50
+
+<info> app: 127
+
+<info> app: seq = 3
+
+<info> app: 133
+
+<info> app: 137
+
+<info> app: 135
+
+<info> app: 127
+
+<info> app: sample_2  :75
+
+<info> app: 122
+
+<info> app: seq = 4
+
+<info> app: 114
+
+<info> app: 110
+
+<info> app: 112
+
+<info> app: 123
+
+<info> app: sample_3  :75
+
+<info> app: 125
+
+<info> app: seq = 5
+
+<info> app: 110
+
+<info> app: 89
+
+<info> app: 79
+
+<info> app: 81
+
+<info> app: 87
+
+<info> app: seq = 6
+
+<info> app: 96
+
+<info> app: 110
+
+<info> app: 107
+
+<info> app: 107
+
+<info> app: sample_1  :100
+
+<info> app: 105
+
+<info> app: seq = 7
+
+<info> app: 103
+
+<info> app: 104
+
+<info> app: 111
+
+<info> app: 127
+
+<info> app: sample_2  :100
+
+<info> app: 142
+
+<info> app: seq = 8
+
+<info> app: 147
+
+<info> app: 136
+
+<info> app: 132
+
+<info> app: 125
+
+<info> app: sample_3  :100
+
+<info> app: 118
+
+<info> app: seq = 9
+
+<info> app: 110
+
+<info> app: 108
+
+<info> app: 111
+
+<info> app: 118
+
+<info> app: 113
+
+<info> app: seq = 10
+
+<info> app: time_flag_h:2
+
+<info> app: 94
+
+<info> app: 78
+
+<info> app: 80
+
+<info> app: 89
+
+<info> app: sample_1  :100
+
+<info> app: 91
+
+<info> app: seq = 11
+
+<info> app: 96
+
+<info> app: 106
+
+<info> app: 111
+
+<info> app: 113
+
+<info> app: sample_2  :100
+
+<info> app: 112
+
+<info> app: seq = 12
+
+<info> app: 111
+
+<info> app: 110
+
+<info> app: 120
+
+<info> app: 142
+
+<info> app: sample_3  :100
+
+<info> app: w_count:18
+
+<info> app: g_send_data:18
+
+<info> app: time_flag_h:1
+
+<info> app: 151
+
+<info> app: seq = 13
+
+<info> app: 145
+
+<info> app: 132
+
+<info> app: 123
+
+<info> app: 117
+
+<info> app: 111
+
+<info> app: seq = 14
+
+<info> app: 110
+
+<info> app: 111
+
+<info> app: 115
+
+<info> app: 111
+
+<info> app: sample_1  :100
+
+<info> app: 88
+
+<info> app: seq = 15
+
+<info> app: time_flag_h:2
+
+<info> app: 72
+
+<info> app: 74
+
+<info> app: 86
+
+<info> app: 94
+
+<info> app: sample_2  :100
+
+<info> app: 105
+
+<info> app: seq = 16
+
+<info> app: 114
+
+<info> app: 117
+
+<info> app: 114
+
+<info> app: 114
+
+<info> app: sample_3  :100
+
+<info> app: 113
+
+<info> app: seq = 17
+
+<info> app: 112
+
+<info> app: 117
+
+<info> app: 131
+
+<info> app: w_count:19
+
+<info> app: g_send_data:19
+
+<info> app: time_flag_h:1
+
+<info> app: 143
+
+<info> app: 140
+
+<info> app: seq = 18
+
+<info> app: 135
+
+<info> app: 129
+
+<info> app: 125
+
+<info> app: 117
+
+<info> app: sample_1  :100
+
+<info> app: 113
+
+<info> app: seq = 19
+
+<info> app: 115
+
+<info> app: 109
+
+<info> app: 108
+
+<info> app: time_flag_h:2
+
+<info> app: 105
+
+<info> app: sample_2  :100
+
+<info> app: 109
+
+<info> app: seq = 20
+
+<info> app: 111
+
+<info> app: 112
+
+<info> app: 113
+
+<info> app: 112
+
+<info> app: sample_3  :100
+
+<info> app: 104
+
+<info> app: seq = 21
+
+<info> app: 91
+
+<info> app: 90
+
+<info> app: 91
+
+<info> app: 91
+
+<info> app: 93
+
+<info> app: seq = 22
+
+<info> app: 98
+
+<info> app: 103
+
+<info> app: 104
+
+<info> app: 102
+
+<info> app: sample_1  :100
+
+<info> app: 107
+
+<info> app: seq = 23
+
+<info> app: 112
+
+<info> app: 108
+
+<info> app: 108
+
+<info> app: 107
+
+<info> app: sample_2  :100
+
+<info> app: 108
+
+<info> app: seq = 24
+
+<info> app: 122
+
+<info> app: 141
+
+<info> app: w_count:20
+
+<info> app: g_send_data:20
+
+<info> app: time_flag_h:1
+
+<info> app: 150
+
+<info> app: 147
+
+<info> app: sample_3  :100
+
+<info> app: 137
+
+<info> app: seq = 25
+
+<info> app: 120
+
+<info> app: 109
+
+<info> app: 105
+
+<info> app: time_flag_h:2
+
+<info> app: 108
+
+<info> app: 108
+
+<info> app: seq = 26
+
+<info> app: 111
+
+<info> app: 105
+
+<info> app: 107
+
+<info> app: 107
+
+<info> app: sample_1  :100
+
+<info> app: 108
+
+<info> app: seq = 27
+
+<info> app: 109
+
+<info> app: 106
+
+<info> app: 99
+
+<info> app: 88
+
+<info> app: sample_2  :100
+
+<info> app: 88
+
+<info> app: seq = 28
+
+<info> app: 88
+
+<info> app: 91
+
+<info> app: 94
+
+<info> app: 105
+
+<info> app: sample_3  :100
+
+<info> app: 108
+
+<info> app: seq = 29
+
+<info> app: 109
+
+<info> app: 113
+
+<info> app: 109
+
+<info> app: 105
+
+<info> app: 107
+
+<info> app: seq = 30
+
+<info> app: 120
+
+<info> app: 137
+
+<info> app: w_count:21
+
+<info> app: g_send_data:21
+
+<info> app: time_flag_h:1
+
+<info> app: 146
+
+<info> app: 149
+
+<info> app: sample_1  :100
+
+<info> app: 146
+
+<info> app: seq = 31
+
+<info> app: 135
+
+<info> app: 117
+
+<info> app: 103
+
+<info> app: time_flag_h:2
+
+<info> app: 104
+
+<info> app: sample_2  :100
+
+<info> app: 102
+
+<info> app: seq = 32
+
+<info> app: 101
+
+<info> app: 103
+
+<info> app: 109
+
+<info> app: 106
+
+<info> app: sample_3  :100
+
+<info> app: 106
+
+<info> app: seq = 33
+
+<info> app: 107
+
+<info> app: 100
+
+<info> app: 92
+
+<info> app: 91
+
+<info> app: 91
+
+<info> app: seq = 34
+
+<info> app: 92
+
+<info> app: 96
+
+<info> app: 97
+
+<info> app: 102
+
+<info> app: sample_1  :100
+
+<info> app: 106
+
+<info> app: seq = 35
+
+<info> app: 110
+
+<info> app: 113
+
+<info> app: 114
+
+<info> app: 111
+
+<info> app: sample_2  :100
+
+<info> app: 112
+
+<info> app: seq = 36
+
+<info> app: 119
+
+<info> app: 132
+
+<info> app: w_count:22
+
+<info> app: g_send_data:22
+
+<info> app: time_flag_h:1
+
+<info> app: 149
+
+<info> app: 153
+
+<info> app: sample_3  :100
+
+<info> app: 143
+
+<info> app: seq = 37
+
+<info> app: 128
+
+<info> app: 108
+
+<info> app: time_flag_h:2
+
+<info> app: 93
+
+<info> app: 100
+
+<info> app: 107
+
+<info> app: seq = 38
+
+<info> app: 111
+
+<info> app: 107
+
+<info> app: 106
+
+<info> app: 108
+
+<info> app: sample_1  :100
+
+<info> app: 106
+
+<info> app: seq = 39
+
+<info> app: 106
+
+<info> app: 102
+
+<info> app: 91
+
+<info> app: 86
+
+<info> app: sample_2  :100
+
+<info> app: 88
+
+<info> app: seq = 40
+
+<info> app: 92
+
+<info> app: 93
+
+<info> app: 101
+
+<info> app: 106
+
+<info> app: sample_3  :100
+
+<info> app: 111
+
+<info> app: seq = 41
+
+<info> app: 111
+
+<info> app: 116
+
+<info> app: 111
+
+<info> app: 110
+
+<info> app: 120
+
+<info> app: seq = 42
+
+<info> app: 137
+
+<info> app: w_count:23
+
+<info> app: g_send_data:23
+
+<info> app: time_flag_h:1
+
+<info> app: 149
+
+<info> app: 149
+
+<info> app: 148
+
+<info> app: sample_1  :100
+
+<info> app: 127
+
+<info> app: seq = 43
+
+<info> app: 100
+
+<info> app: time_flag_h:2
+
+<info> app: 97
+
+<info> app: 100
+
+<info> app: 100
+
+<info> app: sample_2  :100
+
+<info> app: 107
+
+<info> app: seq = 44
+
+<info> app: 113
+
+<info> app: 114
+
+<info> app: 111
+
+<info> app: 108
+
+<info> app: sample_3  :100
+
+<info> app: 107
+
+<info> app: seq = 45
+
+<info> app: 104
+
+<info> app: 93
+
+<info> app: 85
+
+<info> app: 83
+
+<info> app: 85
+
+<info> app: seq = 46
+
+<info> app: 91
+
+<info> app: 100
+
+<info> app: 108
+
+<info> app: 115
+
+<info> app: sample_1  :100
+
+<info> app: 117
+
+<info> app: seq = 47
+
+<info> app: 112
+
+<info> app: 112
+
+<info> app: 120
+
+<info> app: 136
+
+<info> app: sample_2  :100
+
+<info> app: w_count:24
+
+<info> app: g_send_data:24
+
+<info> app: time_flag_h:1
+
+<info> app: 146
+
+<info> app: seq = 48
+
+<info> app: 151
+
+<info> app: 148
+
+<info> app: 135
+
+<info> app: 114
+
+<info> app: sample_3  :100
+
+<info> app: 97
+
+<info> app: seq = 49
+
+<info> app: time_flag_h:2
+
+<info> app: 98
+
+<info> app: 95
+
+<info> app: 94
+
+<info> app: 104
+
+<info> app: 105
+
+<info> app: seq = 50
+
+<info> app: 107
+
+<info> app: 105
+
+<info> app: 107
+
+<info> app: 107
+
+<info> app: sample_1  :100
+
+<info> app: 107
+
+<info> app: seq = 51
+
+<info> app: 102
+
+<info> app: 97
+
+<info> app: 99
+
+<info> app: 92
+
+<info> app: sample_2  :100
+
+<info> app: 87
+
+<info> app: seq = 52
+
+<info> app: 86
+
+<info> app: 90
+
+<info> app: 99
+
+<info> app: 108
+
+<info> app: sample_3  :75
+
+<info> app: 115
+
+<info> app: seq = 53
+
+<info> app: 109
+
+<info> app: 108
+
+<info> app: 107
+
+<info> app: 115
+
+<info> app: 120
+
+<info> app: seq = 54
+
+<info> app: 134
+
+<info> app: w_count:25
+
+<info> app: g_send_data:25
+
+<info> app: time_flag_h:1
+
+<info> app: 152
+
+<info> app: 156
+
+<info> app: 145
+
+<info> app: sample_1  :100
+
+<info> app: 128
+
+<info> app: seq = 55
+
+<info> app: 119
+
+<info> app: 101
+
+<info> app: time_flag_h:2
+
+<info> app: 91
+
+<info> app: 79
+
+<info> app: sample_2  :100
+
+<info> app: 95
+
+<info> app: seq = 56
+
+<info> app: 102
+
+<info> app: 105
+
+<info> app: 110
+
+<info> app: 108
+
+<info> app: sample_3  :100
+
+<info> app: 112
+
+<info> app: seq = 57
+
+<info> app: 114
+
+<info> app: 117
+
+<info> app: 116
+
+<info> app: 114
+
+<info> app: 104
+
+<info> app: seq = 58
+
+<info> app: 88
+
+<info> app: 82
+
+<info> app: 87
+
+<info> app: 98
+
+<info> app: sample_1  :100
+
+<info> app: 104
+
+<info> app: seq = 59
+
+<info> app: 101
+
+<info> app: 104
+
+<info> app: 111
+
+<info> app: 111
+
+<info> app: sample_2  :100
+
+<info> app: 109
+
+<info> app: seq = 60
+
+<info> app: 106
+
+<info> app: 105
+
+<info> app: 106
+
+<info> app: 111
+
+<info> app: sample_3  :100
+
+<info> app: 110
+
+<info> app: seq = 61
+
+<info> app: 111
+
+<info> app: 126
+
+<info> app: w_count:26
+
+<info> app: g_send_data:26
+
+<info> app: time_flag_h:1
+
+<info> app: 148
+
+<info> app: 150
+
+<info> app: 137
+
+<info> app: seq = 62
+
+<info> app: 128
+
+<info> app: 122
+
+<info> app: 109
+
+<info> app: 100
+
+<info> app: sample_1  :100
+
+<info> app: time_flag_h:2
+
+<info> app: 106
+
+<info> app: seq = 63
+
+<info> app: 105
+
+<info> app: 104
+
+<info> app: 107
+
+<info> app: 107
+
+<info> app: sample_2  :100
+
+<info> app: 106
+
+<info> app: seq = 64
+
+<info> app: 106
+
+<info> app: 108
+
+<info> app: 109
+
+<info> app: 111
+
+<info> app: sample_3  :100
+
+<info> app: 112
+
+<info> app: seq = 65
+
+<info> app: 113
+
+<info> app: 112
+
+<info> app: 111
+
+<info> app: 109
+
+<info> app: 106
+
+<info> app: seq = 66
+
+<info> app: 95
+
+<info> app: 85
+
+<info> app: 85
+
+<info> app: 89
+
+<info> app: sample_1  :100
+
+<info> app: 94
+
+<info> app: seq = 67
+
+<info> app: 105
+
+<info> app: 104
+
+<info> app: 102
+
+<info> app: 107
+
+<info> app: sample_2  :100
+
+<info> app: 116
+
+<info> app: seq = 68
+
+<info> app: 115
+
+<info> app: 114
+
+<info> app: 108
+
+<info> app: 106
+
+<info> app: sample_3  :100
+
+<info> app: 115
+
+<info> app: seq = 69
+
+<info> app: 127
+
+<info> app: w_count:27
+
+<info> app: g_send_data:27
+
+<info> app: time_flag_h:1
+
+<info> app: 145
+
+<info> app: 147
+
+<info> app: 145
+
+<info> app: 135
+
+<info> app: seq = 70
+
+<info> app: 128
+
+<info> app: 108
+
+<info> app: time_flag_h:2
+
+<info> app: 102
+
+<info> app: 102
+
+<info> app: sample_1  :100
+
+<info> app: 95
+
+<info> app: seq = 71
+
+<info> app: 101
+
+<info> app: 111
+
+<info> app: 112
+
+<info> app: 110
+
+<info> app: sample_2  :100
+
+<info> app: 110
+
+<info> app: seq = 72
+
+<info> app: 110
+
+<info> app: 111
+
+<info> app: 111
+
+<info> app: 112
+
+<info> app: sample_3  :100
+
+<info> app: 113
+
+<info> app: seq = 73
+
+<info> app: 114
+
+<info> app: 111
+
+<info> app: 101
+
+<info> app: 89
+
+<info> app: 84
+
+<info> app: seq = 74
+
+<info> app: 89
+
+<info> app: 96
+
+<info> app: 101
+
+<info> app: 103
+
+<info> app: sample_1  :100
+
+<info> app: 101
+
+<info> app: seq = 75
+
+<info> app: 102
+
+<info> app: 108
+
+<info> app: 113
+
+<info> app: 114
+
+<info> app: sample_2  :100
+
+<info> app: 113
+
+<info> app: seq = 76
+
+<info> app: 114
+
+<info> app: 120
+
+<info> app: 133
+
+<info> app: w_count:28
+
+<info> app: g_send_data:28
+
+<info> app: time_flag_h:1
+
+<info> app: 145
+
+<info> app: sample_3  :100
+
+<info> app: 147
+
+<info> app: seq = 77
+
+<info> app: 139
+
+<info> app: 131
+
+<info> app: 121
+
+<info> app: 107
+
+<info> app: time_flag_h:2
+
+<info> app: 101
+
+<info> app: seq = 78
+
+<info> app: 107
+
+<info> app: 107
+
+<info> app: 108
+
+<info> app: 107
+
+<info> app: sample_1  :100
+
+<info> app: 103
+
+<info> app: seq = 79
+
+<info> app: 101
+
+<info> app: 103
+
+<info> app: 105
+
+<info> app: 104
+
+<info> app: sample_2  :100
+
+<info> app: 107
+
+<info> app: seq = 80
+
+<info> app: 107
+
+<info> app: 106
+
+<info> app: 99
+
+<info> app: 94
+
+<info> app: sample_3  :100
+
+<info> app: 90
+
+<info> app: seq = 81
+
+<info> app: 88
+
+<info> app: 92
+
+<info> app: 96
+
+<info> app: 99
+
+<info> app: 108
+
+<info> app: seq = 82
+
+<info> app: 105
+
+<info> app: 106
+
+<info> app: 109
+
+<info> app: 109
+
+<info> app: sample_1  :100
+
+<info> app: 110
+
+<info> app: seq = 83
+
+<info> app: 113
+
+<info> app: 126
+
+<info> app: w_count:29
+
+<info> app: g_send_data:29
+
+<info> app: time_flag_h:1
+
+<info> app: 140
+
+<info> app: 146
+
+<info> app: sample_2  :100
+
+<info> app: 149
+
+<info> app: seq = 84
+
+<info> app: 141
+
+<info> app: 130
+
+<info> app: 105
+
+<info> app: time_flag_h:2
+
+<info> app: 98
+
+<info> app: sample_3  :100
+
+<info> app: 100
+
+<info> app: seq = 85
+
+<info> app: 103
+
+<info> app: 102
+
+<info> app: 102
+
+<info> app: 104
+
+<info> app: 107
+
+<info> app: seq = 86
+
+<info> app: 109
+
+<info> app: 109
+
+<info> app: 108
+
+<info> app: 111
+
+<info> app: sample_1  :100
+
+<info> app: 115
+
+<info> app: seq = 87
+
+<info> app: 116
+
+<info> app: 115
+
+<info> app: 114
+
+<info> app: 114
+
+<info> app: sample_2  :100
+
+<info> app: 114
+
+<info> app: seq = 88
+
+<info> app: 102
+
+<info> app: 85
+
+<info> app: 82
+
+<info> app: 86
+
+<info> app: sample_3  :100
+
+<info> app: 97
+
+<info> app: seq = 89
+
+<info> app: 107
+
+<info> app: 106
+
+<info> app: 105
+
+<info> app: 105
+
+<info> app: 105
+
+<info> app: seq = 90
+
+<info> app: 108
+
+<info> app: 108
+
+<info> app: 113
+
+<info> app: 113
+
+<info> app: sample_1  :100
+
+<info> app: 128
+
+<info> app: seq = 91
+
+<info> app: w_count:30
+
+<info> app: g_send_data:30
+
+<info> app: time_flag_h:1
+
+<info> app: 142
+
+<info> app: 148
+
+<info> app: 148
+
+<info> app: 137
+
+<info> app: sample_2  :100
+
+<info> app: 128
+
+<info> app: seq = 92
+
+<info> app: 116
+
+<info> app: 98
+
+<info> app: time_flag_h:2
+
+<info> app: 89
+
+<info> app: 91
+
+<info> app: sample_3  :100
+
+<info> app: 102
+
+<info> app: seq = 93
+
+<info> app: 112
+
+<info> app: 112
+
+<info> app: 109
+
+<info> app: 107
+
+<info> app: 108
+
+<info> app: seq = 94
+
+<info> app: 110
+
+<info> app: 109
+
+<info> app: 108
+
+<info> app: 108
+
+<info> app: sample_1  :100
+
+<info> app: 106
+
+<info> app: seq = 95
+
+<info> app: 98
+
+<info> app: 86
+
+<info> app: 80
+
+<info> app: 85
+
+<info> app: sample_2  :100
+
+<info> app: 97
+
+<info> app: seq = 96
+
+<info> app: 100
+
+<info> app: 104
+
+<info> app: 103
+
+<info> app: 109
+
+<info> app: sample_3  :100
+
+<info> app: 115
+
+<info> app: seq = 97
+
+<info> app: 114
+
+<info> app: 111
+
+<info> app: 108
+
+<info> app: 105
+
+<info> app: 103
+
+<info> app: seq = 98
+
+<info> app: 99
+
+<info> app: 100
+
+<info> app: 102
+
+<info> app: 107
+
+<info> app: sample_1  :100
+
+<info> app: 107
+
+<info> app: seq = 99
+
+<info> app: 102
+
+<info> app: 99
+
+<info> app: 101
+
+<info> app: 103
+
+<info> app: sample_2  :100
+
+<info> app: 106
+
+<info> app: seq = 100
+
+<info> app: 106
+
+<info> app: 101
+
+<info> app: 101
+
+<info> app: 103
+
+<info> app: sample_3  :100
+
+<info> app: 90
+
+<info> app: seq = 101
+
+<info> app: 84
+
+<info> app: 73
+
+<info> app: 48
+
+<info> app: 28
+
+<info> app: 0
+
+<info> app: seq = 102
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: sample_1  :50
+
+<info> app: 0
+
+<info> app: seq = 103
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: sample_2  :25
+
+<info> app: 0
+
+<info> app: seq = 104
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: sample_3  :0
+
+<info> app: 0
+
+<info> app: seq = 105
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: seq = 106
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: sample_1  :0
+
+<info> app: 0
+
+<info> app: seq = 107
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: sample_2  :0
+
+<info> app: 0
+
+<info> app: seq = 108
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: sample_3  :0
+
+<info> app: 0
+
+<info> app: seq = 109
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: seq = 110
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: sample_1  :0
+
+<info> app: 0
+
+<info> app: seq = 111
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+

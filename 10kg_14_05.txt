@@ -1,0 +1,331 @@
+<info> app: sample_3  :0
+
+<info> app: 117
+
+<info> app: seq = 13
+
+<info> app: 79
+
+<info> app: 92
+
+<info> app: 118
+
+<info> app: 120
+
+<info> app: 138
+
+<info> app: seq = 14
+
+<info> app: 139
+
+<info> app: 116
+
+<info> app: 76
+
+<info> app: 88
+
+<info> app: sample_1  :50
+
+<info> app: 127
+
+<info> app: seq = 15
+
+<info> app: 122
+
+<info> app: 147
+
+<info> app: 129
+
+<info> app: 111
+
+<info> app: sample_2  :75
+
+<info> app: 65
+
+<info> app: seq = 16
+
+<info> app: 100
+
+<info> app: 119
+
+<info> app: 117
+
+<info> app: 155
+
+<info> app: sample_3  :100
+
+<info> app: 121
+
+<info> app: seq = 17
+
+<info> app: 101
+
+<info> app: 72
+
+<info> app: 107
+
+<info> app: 125
+
+<info> app: 132
+
+<info> app: seq = 18
+
+<info> app: 149
+
+<info> app: 107
+
+<info> app: 84
+
+<info> app: 85
+
+<info> app: sample_1  :100
+
+<info> app: 107
+
+<info> app: seq = 19
+
+<info> app: 135
+
+<info> app: 153
+
+<info> app: 128
+
+<info> app: 99
+
+<info> app: sample_2  :100
+
+<info> app: w_count:4
+
+<info> app: g_send_data:4
+
+<info> app: 71
+
+<info> app: seq = 20
+
+<info> app: 98
+
+<info> app: 128
+
+<info> app: 166
+
+<info> app: 138
+
+<info> app: sample_3  :100
+
+<info> app: 95
+
+<info> app: seq = 21
+
+<debug> nrf_sdh_ble: BLE event: 0x26.
+<info> app: w_count:5
+
+<info> app: g_send_data:5
+
+<info> app: 77
+
+<info> app: 81
+
+<info> app: 106
+
+<info> app: 133
+
+<info> app: 152
+
+<info> app: seq = 22
+
+<info> app: 123
+
+<info> app: 105
+
+<info> app: 71
+
+<info> app: w_count:6
+
+<info> app: g_send_data:6
+
+<info> app: 97
+
+<info> app: sample_1  :100
+
+<info> app: 123
+
+<info> app: seq = 23
+
+<info> app: 156
+
+<info> app: 150
+
+<info> app: 95
+
+<info> app: w_count:7
+
+<info> app: g_send_data:7
+
+<info> app: 72
+
+<info> app: sample_2  :100
+
+<info> app: 91
+
+<info> app: seq = 24
+
+<info> app: 119
+
+<info> app: 123
+
+<info> app: 156
+
+<info> app: 121
+
+<info> app: sample_3  :100
+
+<info> app: 87
+
+<info> app: seq = 25
+
+<info> app: 72
+
+<info> app: 112
+
+<info> app: 123
+
+<info> app: 158
+
+<info> app: 126
+
+<info> app: seq = 26
+
+<info> app: 91
+
+<info> app: w_count:8
+
+<info> app: g_send_data:8
+
+<info> app: 72
+
+<info> app: 112
+
+<info> app: 122
+
+<info> app: sample_1  :100
+
+<info> app: 150
+
+<info> app: seq = 27
+
+<info> app: 141
+
+<info> app: 104
+
+<info> app: 66
+
+<info> app: w_count:9
+
+<info> app: g_send_data:9
+
+<info> app: 92
+
+<info> app: sample_2  :100
+
+<info> app: 125
+
+<info> app: seq = 28
+
+<info> app: 148
+
+<info> app: 141
+
+<info> app: 105
+
+<info> app: 68
+
+<info> app: sample_3  :100
+
+<info> app: w_count:10
+
+<info> app: g_send_data:10
+
+<info> app: 89
+
+<info> app: seq = 29
+
+<info> app: 125
+
+<info> app: 132
+
+<info> app: 164
+
+<info> app: 120
+
+<info> app: 88
+
+<info> app: seq = 30
+
+<info> app: w_count:11
+
+<info> app: g_send_data:11
+
+<info> app: 76
+
+<info> app: 103
+
+<info> app: 125
+
+<info> app: 159
+
+<info> app: sample_1  :100
+
+<info> app: 122
+
+<info> app: seq = 31
+
+<info> app: 81
+
+<info> app: w_count:12
+
+<info> app: g_send_data:12
+
+<info> app: 78
+
+<info> app: 103
+
+<info> app: 131
+
+<info> app: sample_2  :100
+
+<info> app: 99
+
+<info> app: seq = 32
+
+<info> app: 122
+
+<info> app: 56
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: sample_3  :75
+
+<info> app: 0
+
+<info> app: seq = 33
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: seq = 34
+
+<info> app: 0
+
+<info> app: 0
+
+<info> app: 0
+
